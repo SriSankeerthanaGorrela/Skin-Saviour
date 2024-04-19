@@ -42,7 +42,7 @@
     margin: 5rem 0px;
 }
 .tips .section1 .description .content{
-    font-size: 25px;
+    font-size: 22px;
     text-align: center;
     margin-top: 30px;
 }
@@ -56,7 +56,7 @@
     gap:60px 20px;
 }
 .tips .section2 .card{
-    width: 400px;
+    width: 320px;
     padding-bottom: 10px;
     transition: transform  linear 0.4s;
 }
@@ -65,7 +65,7 @@
     box-shadow: 2px 2px 6px  #cb7645;
 }
 .tips .section2 .card img{
-    width: 400px;
+    width: 320px;
     border-radius: 40px;
     height: 400px;
     padding: 20px;
@@ -73,8 +73,8 @@
 }
 .tips .section2 .card h3{
     color: #b56231;
-    font-size: 24px;
-    padding: 0px 30px;
+    font-size: 22px;
+    padding: 0px 20px;
     line-height: 30px;
 }
 
@@ -178,7 +178,7 @@
     margin-top: 30px;
 }
 .description1{
-    margin: 0px 8rem;
+    margin: 0px 6rem;
     margin-top: -2rem;
     margin-bottom: 3rem;
     font-size: 20px;
@@ -191,7 +191,7 @@
     display:flex;
     justify-content: center;
     width: 100%;
-    gap: 20px;
+    /* gap: 80px; */
     margin-bottom: 3rem;
 }
 .tips .section5 .image,
@@ -202,7 +202,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 20px 80px;
+    padding: 0px 40px;
 }
 .tips .section5 .image img,
 .tips .section6 .image img,
@@ -216,22 +216,22 @@
 .tips .section5 .image .one,
 .tips .section7 .image .one{
     text-align: left;
-    margin-bottom: -30px;
+    margin-bottom: -10px;
 } 
 .tips .section6 .image .four,
 .tips .section8 .image .four{
     text-align: left;
-    margin-top: -30px;
+    margin-top: -10px;
 }
 .tips .section5 .image .two,
 .tips .section7 .image .two{
     text-align: right;
-    margin-top: -30px;
+    margin-top: -10px;
 } 
 .tips .section6 .image .three,
 .tips .section8 .image .three{
     text-align: right;
-    margin-bottom: -30px;
+    margin-bottom: -10px;
 }
 .tips .section5 .description,
 .tips .section6 .description,
@@ -243,6 +243,7 @@
     flex-direction: column ;
     justify-content: center;
     align-items:center;
+    padding-left: 10px;
     text-align: center;
 }
 .tips .section5 .description h2,

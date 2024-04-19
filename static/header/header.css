@@ -141,7 +141,7 @@ font
 }
 
 
-@media screen and (min-width:1600px) and (max-width:1940px){
+@media (max-width:1940px){
     .navigation .caption {
         left:15%
     }
